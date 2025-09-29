@@ -55,47 +55,57 @@ Open terminal and try execute some kali linux commands
 
 ```
 
+
 # Output:
 
-# SITE
+# SITE:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc86299b-7183-46f3-b915-4f99662aaf22" />
+<img width="1899" height="967" alt="image" src="https://github.com/user-attachments/assets/09f05aea-ded5-4189-a2db-eced6b99efcf" />
 
-# INURL
+# INURL:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7a0f085-bb29-4ebc-8bd0-0df65e492a71" />
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/d0a543be-43e1-41f0-af57-9311ad26eb7e" />
 
 # INTITLE:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c75dcb38-3123-4238-9abc-5c229fa6bf05" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/be357411-eb33-4925-9f9b-ecec410dd00b" />
 
-# FILETYPE
+# FILETYPE:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f32e4726-4b7e-4468-b555-b928b5e19512" />
+<img width="1912" height="979" alt="image" src="https://github.com/user-attachments/assets/6b980189-dcd4-45b4-900d-bee8b09da35b" />
 
 # INTEXT
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fe2e404-eb58-45d2-8140-385ca540a740" />
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/dca34c6b-b9ba-4889-8977-d14cea758881" />
 
 # LINK
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9316cf14-1fc7-482b-bde6-2749ef35386c" />
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/eed34eb3-0452-4371-aaa6-047b1d4ca585" />
 
 # CACHE
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95e97d9e-509f-486f-a7ce-a223f16923bd" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/67a2166e-1b49-43a9-b826-dba5f340539e" />
 
 # EXT
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd4b572d-7a0c-4307-9d55-e0fe43224907" />
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/ecf411ee-d04a-44eb-9aeb-3063101824fa" />
+
 
 # DNS Enumeration
 
-<img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/8c96c17d-8b74-4c33-9c55-2a35f56d5cf7" />
+<img width="736" height="534" alt="image" src="https://github.com/user-attachments/assets/bf43a1f9-19f3-4a90-a049-14e850f3db49" />
+
 
 ## DNS Recon
 
-<img width="712" height="504" alt="image" src="https://github.com/user-attachments/assets/b240541a-fbec-478d-9317-b1686dd851fe" />
+ provides the ability to perform:
+ Check all NS records for zone transfers
+ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
+ Perform common SRV Record Enumeration
+ Top level domain expansion
+
+<img width="746" height="603" alt="image" src="https://github.com/user-attachments/assets/bb21a594-6fae-4950-9a29-98392372574c" />
+
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -121,33 +131,33 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 
-## NSLOOkUP
+# NSLOOKUP
 
-<img width="478" height="786" alt="image" src="https://github.com/user-attachments/assets/0e065547-d87e-4266-ac57-db7c8f7979c8" />
+<img width="752" height="812" alt="image" src="https://github.com/user-attachments/assets/4d09669d-a5d7-43e9-983a-b87b395dd52f" />
 
-## DIG
+# DIG
 
-<img width="640" height="596" alt="image" src="https://github.com/user-attachments/assets/a8167b0c-e691-46df-95d0-36a8d274698a" />
+<img width="726" height="564" alt="image" src="https://github.com/user-attachments/assets/fec89592-9804-48d2-91a5-5e5636741f9b" />
 
-## HOST
+# HOST
 
-<img width="592" height="411" alt="image" src="https://github.com/user-attachments/assets/94afaa9a-18aa-4aa3-8da9-dedee4253d1c" />
+<img width="750" height="447" alt="image" src="https://github.com/user-attachments/assets/67f39315-8ad0-4d37-8536-155e1731829d" />
 
-## DNSSENUM 
+# DNSENUM
 
-<img width="716" height="536" alt="image" src="https://github.com/user-attachments/assets/19b78165-6213-46f9-8db9-7a5040036039" />
+<img width="733" height="543" alt="image" src="https://github.com/user-attachments/assets/7c1e5164-50a3-4edc-b3c2-f1d8fb7342f1" />
 
-## DNSRECON
+# DNSRECON
 
-<img width="654" height="503" alt="image" src="https://github.com/user-attachments/assets/6eb76250-373c-4527-83d0-ca0e1032bf5e" />
+<img width="746" height="603" alt="image" src="https://github.com/user-attachments/assets/bb21a594-6fae-4950-9a29-98392372574c" />
 
-## FIERCE
+# FIERCE 
 
-<img width="615" height="716" alt="image" src="https://github.com/user-attachments/assets/f19e8c7b-0f3f-4a56-a6f9-867c19c00f71" />
+<img width="742" height="762" alt="image" src="https://github.com/user-attachments/assets/3836a9af-37da-448a-ac8d-ae7fbbcee8dd" />
 
-## HARVESTER
+# Harvestor
 
-<img width="608" height="693" alt="image" src="https://github.com/user-attachments/assets/9b40843a-7234-4504-b83e-1ac27c8d7ac4" />
+<img width="739" height="705" alt="image" src="https://github.com/user-attachments/assets/f31dcc14-9a74-41ee-8ca0-b1bc96359f82" />
 
 ## Architecture Diagram 
 ```
@@ -188,7 +198,8 @@ dnsenum example.com
 
 ## Output:
 
-<img width="752" height="559" alt="image" src="https://github.com/user-attachments/assets/1a33d476-8ece-4288-9edd-d52acf6e9d33" />
+<img width="736" height="510" alt="image" src="https://github.com/user-attachments/assets/95163872-8224-47b5-adeb-68db81607fb4" />
+
 
 
 ## smtp-user-enum
@@ -200,9 +211,9 @@ dnsenum example.com
 smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
-## Output
- 
-<img width="920" height="385" alt="image" src="https://github.com/user-attachments/assets/cb0a2695-3b47-40c2-8b44-f409b18c4c48" />
+ ## Output
+  
+<img width="747" height="415" alt="image" src="https://github.com/user-attachments/assets/df055f43-0a50-48ec-ab9e-9e27218eef4d" />
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -216,7 +227,8 @@ nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
 
-<img width="618" height="180" alt="image" src="https://github.com/user-attachments/assets/45d2221c-076f-4613-acb7-730573dd4582" />
+<img width="680" height="142" alt="image" src="https://github.com/user-attachments/assets/bf2982f5-e7bb-4537-9a7d-bc5bfed15ad2" />
+
 
 
 ## RESULT:
